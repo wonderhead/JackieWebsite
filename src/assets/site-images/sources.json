@@ -1,0 +1,503 @@
+{
+  "sourceSite": "https://www.jacquelinetrinhjuarez.com/",
+  "checkedOn": "2026-11-07",
+  "downloadNotes": "CDN images resized to at most 2500 pixels wide; original aspect ratios preserved, no crop. Fixed JPG imports converted from PNG/WebP when needed. Headshot/Resume assets replaced with supplied originals; the resume preview is rendered from the supplied PDF. Existing gallery order retained; repeated original photos appear once per gallery.",
+  "images": [
+    {
+      "file": "src/assets/site-images/about/about-intro-portrait.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/about-6-1",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/eb40912c-5f37-4580-97df-a5bcbf602fb8/IMG_6462.png",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/eb40912c-5f37-4580-97df-a5bcbf602fb8/IMG_6462.png?format=2500w",
+      "sourceDimensions": "1159x1546",
+      "localDimensions": "1159x1546",
+      "sha256": "ecf8d83f55161af7b6b5e840d6de608235893496930d8e096e6a1dd32f3258b3"
+    },
+    {
+      "file": "src/assets/site-images/about/about-story-gallery/01-community-trip.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/about-6-1",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/01f4de48-edd5-4a50-8e96-13e8eeb5a071/first+hondy+trip+with+nic.JPG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/01f4de48-edd5-4a50-8e96-13e8eeb5a071/first+hondy+trip+with+nic.JPG?format=2500w",
+      "sourceDimensions": "1200x1600",
+      "localDimensions": "1200x1600",
+      "sha256": "6e0cdb37ecbfdce1f5659f01c218902ed8cb4c998a02dcce29b8ffa28f5f56c8"
+    },
+    {
+      "file": "src/assets/site-images/about/about-story-gallery/02-city-dance.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/about-6-1",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/0d38e80b-3e90-4d04-b08f-6c1cbb9f905d/IMG_3586.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/0d38e80b-3e90-4d04-b08f-6c1cbb9f905d/IMG_3586.jpg?format=2500w",
+      "sourceDimensions": "1290x1592",
+      "localDimensions": "1290x1592",
+      "sha256": "7ad9bc3fe61aba5b7b5b86565a7182dffcc6291e7dc14b460270ff023e0272e0"
+    },
+    {
+      "file": "src/assets/site-images/about/about-story-gallery/03-stage-performance.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/about-6-1",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/1c0d977d-8bca-4b84-a0be-29e92709b077/IMG_6530.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/1c0d977d-8bca-4b84-a0be-29e92709b077/IMG_6530.jpg?format=2500w",
+      "sourceDimensions": "1290x1482",
+      "localDimensions": "1290x1482",
+      "sha256": "8aa4edaa73f46d63bf1eb536c3aba4f09b62a8dcfae06be7c775783526546575"
+    },
+    {
+      "file": "src/assets/site-images/about/about-story-gallery/04-outdoor-fairy-performance.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/about-6-1",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/580ce682-aeb9-4830-a507-c4f922552ca3/IMG_9935.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/580ce682-aeb9-4830-a507-c4f922552ca3/IMG_9935.jpg?format=2500w",
+      "sourceDimensions": "5108x3648",
+      "localDimensions": "2500x1785",
+      "sha256": "0d8c19ea0542c38ad5ff72f215bc99391cf32e3dc583d44717991c67744ef378"
+    },
+    {
+      "file": "src/assets/site-images/about/about-story-gallery/05-community-service.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/about-6-1",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/8eeb64ca-a982-4d39-a9ed-ebcb7a2493aa/20240523_100236_6F3371.JPEG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/8eeb64ca-a982-4d39-a9ed-ebcb7a2493aa/20240523_100236_6F3371.JPEG?format=2500w",
+      "sourceDimensions": "2048x1366",
+      "localDimensions": "2048x1366",
+      "sha256": "8485e7a0f57cf5ffb3cb91f10bf4a4de983c130bfef1e640be2e9e551e19edac"
+    },
+    {
+      "file": "src/assets/site-images/about/about-story-gallery/06-parade-wave.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/about-6-1",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/9a22ffbb-5755-4c59-81a8-5d964aaefaef/mo+parade+wave.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/9a22ffbb-5755-4c59-81a8-5d964aaefaef/mo+parade+wave.jpg?format=2500w",
+      "sourceDimensions": "1290x1910",
+      "localDimensions": "1290x1910",
+      "sha256": "3b67b7b326fd04b35aa762a439af0372f840e0fb71505f135ae2f0b1219bfd13"
+    },
+    {
+      "file": "src/assets/site-images/about/about-story-gallery/07-parade-ribbons.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/about-6-1",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/9e62cf02-1d5b-4d86-aff2-14761e5b86f9/mo+parade+ribbons.JPG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/9e62cf02-1d5b-4d86-aff2-14761e5b86f9/mo+parade+ribbons.JPG?format=2500w",
+      "sourceDimensions": "1290x1878",
+      "localDimensions": "1290x1878",
+      "sha256": "d88dc4cdd5051ff8f4230b629af89c79c4446b5fb9a9087fb3006412470e61bd"
+    },
+    {
+      "file": "src/assets/site-images/about/about-story-gallery/08-family-celebration.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/about-6-1",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/ae6e5092-0be3-4437-8379-1ebee7e5adea/confirmation+w_mommydaddy.JPG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/ae6e5092-0be3-4437-8379-1ebee7e5adea/confirmation+w_mommydaddy.JPG?format=2500w",
+      "sourceDimensions": "3024x4032",
+      "localDimensions": "2500x3333",
+      "sha256": "c12fff6433952d0e5236d9ef940ea46fb97531c2c0175d726621b84e1e3d9b9f"
+    },
+    {
+      "file": "src/assets/site-images/about/about-story-gallery/09-teaching-class.webp",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/about-6-1",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/e18d45d7-228b-4988-b6e2-9ab033fc3f0b/44ABEDD2-D449-436A-BB6C-8273DF13F8B9.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/e18d45d7-228b-4988-b6e2-9ab033fc3f0b/44ABEDD2-D449-436A-BB6C-8273DF13F8B9.jpg?format=2500w",
+      "sourceDimensions": "958x641",
+      "localDimensions": "958x641",
+      "sha256": "71fb3aa4370b2cfc329129bcb633730c4d659743ac138027c094fb3c7fea0048"
+    },
+    {
+      "file": "src/assets/site-images/about/about-story-gallery/10-conference-friends.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/about-6-1",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/f22ad3d3-a68c-4f04-b548-26081f7642d5/IMG_3587.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/f22ad3d3-a68c-4f04-b548-26081f7642d5/IMG_3587.jpg?format=2500w",
+      "sourceDimensions": "1290x986",
+      "localDimensions": "1290x986",
+      "sha256": "111fa9e4b1b50debbea62da71d96884c1af2bc1b6aeb0bc3cc6da92b5099f2d3"
+    },
+    {
+      "file": "src/assets/site-images/contact/contact-banner.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/contact",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/1e5d1a20-2535-4f41-bc2e-1880bb156d2f/IMG_6531.PNG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/1e5d1a20-2535-4f41-bc2e-1880bb156d2f/IMG_6531.PNG?format=2500w",
+      "sourceDimensions": "1289x1701",
+      "localDimensions": "1289x1701",
+      "sha256": "f953062829800627f771691e999cf5690f80f3d8bc4a231801e683991d38dbef"
+    },
+    {
+      "file": "src/assets/site-images/headshot-resume/alternate-headshot.jpg",
+      "sourceFile": "Jacqueline Trinh-Juarez H (1).PNG",
+      "sourceDimensions": "1289x1712",
+      "localDimensions": "1289x1712",
+      "notes": "Supplied JPEG original copied byte-for-byte; the source filename uses a .PNG extension.",
+      "sha256": "009f48865f4c9d043b00638e8dc0f5a859b911db2eb584111810451f6e851569"
+    },
+    {
+      "file": "src/assets/site-images/headshot-resume/primary-headshot.jpg",
+      "sourceFile": "Jacqueline Trinh-Juarez H.PNG",
+      "sourceDimensions": "1289x1715",
+      "localDimensions": "1289x1715",
+      "notes": "Supplied JPEG original copied byte-for-byte; the source filename uses a .PNG extension.",
+      "sha256": "fe02be6949ce57d367ae3e9bccc6211c5e103076a3d353a8667d27a67caf2ab6"
+    },
+    {
+      "file": "src/assets/site-images/home/home-hero.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/d61f816b-61ea-4d64-b321-850d445ebcc5/IMG_6618.JPG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/d61f816b-61ea-4d64-b321-850d445ebcc5/IMG_6618.JPG?format=2500w",
+      "sourceDimensions": "4191x6286",
+      "localDimensions": "2500x3750",
+      "sha256": "c4b59cc31975678b4c1e8515d57a12fb6e5e2aea021527558de7c9e380401581"
+    },
+    {
+      "file": "src/assets/site-images/home/home-slideshow/01-pink-studio-dance.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/d61f816b-61ea-4d64-b321-850d445ebcc5/IMG_6618.JPG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/d61f816b-61ea-4d64-b321-850d445ebcc5/IMG_6618.JPG?format=2500w",
+      "sourceDimensions": "4191x6286",
+      "localDimensions": "2500x3750",
+      "sha256": "c4b59cc31975678b4c1e8515d57a12fb6e5e2aea021527558de7c9e380401581"
+    },
+    {
+      "file": "src/assets/site-images/home/home-slideshow/02-pink-studio-extension.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/0a4105b6-50b2-44df-ac07-c89aca4288ee/IMG_6620.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/0a4105b6-50b2-44df-ac07-c89aca4288ee/IMG_6620.jpg?format=2500w",
+      "sourceDimensions": "4371x5958",
+      "localDimensions": "2500x3408",
+      "sha256": "6d7091fc7eabb6180acdce6c420cacdad5a0e683644745d494b92713f21f5b1e"
+    },
+    {
+      "file": "src/assets/site-images/home/home-slideshow/03-pink-studio-leap.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/0bf86325-c176-4aad-bd2b-8454546ff451/IMG_6617.JPG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/0bf86325-c176-4aad-bd2b-8454546ff451/IMG_6617.JPG?format=2500w",
+      "sourceDimensions": "4259x6389",
+      "localDimensions": "2500x3750",
+      "sha256": "94346aed8bd22b18aec4670e0d540572188b8c06f6a2d0b324bf14df9fbc17f3"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/01-halloween-stage-prop.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/0bb5dda5-cf68-4a7d-9332-8fe464e3f498/54142173423_15c23988bb_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/0bb5dda5-cf68-4a7d-9332-8fe464e3f498/54142173423_15c23988bb_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "517b40b99c1b3b9f2543c80785e45d64658b177fd40cee8e40e2ead4b6521328"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/02-halloween-ensemble-wide.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/1044b5fc-58d9-4d17-9fd3-843c0c4b04cc/54142174058_8d2c707063_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/1044b5fc-58d9-4d17-9fd3-843c0c4b04cc/54142174058_8d2c707063_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "379c1238e1cc295c68b9330edeb9ff5607b5c6c20a769ba6cea42f3819e52776"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/03-halloween-duet.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/246a20a6-2edc-413b-8c3e-1419bfe49106/54142219809_94f87ba240_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/246a20a6-2edc-413b-8c3e-1419bfe49106/54142219809_94f87ba240_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "2f0fd97355546163712460ddc7f29e3148c93e1f565bbf874e45755bc1e3d087"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/04-orange-ensemble.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/29a16ab8-3f6c-4690-9439-7ec985bd00ce/54440993601_2848b1f96a_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/29a16ab8-3f6c-4690-9439-7ec985bd00ce/54440993601_2848b1f96a_o.jpg?format=2500w",
+      "sourceDimensions": "3623x2415",
+      "localDimensions": "2500x1666",
+      "sha256": "c0471ac205554a530d9904e3f6bc51c7f17b1e52e7b5247a0a41200baade59d2"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/05-denim-ensemble.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/c5595449-39b8-4ebd-8fac-3ec498064c56/54441374590_b7f8883ebb_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/c5595449-39b8-4ebd-8fac-3ec498064c56/54441374590_b7f8883ebb_o.jpg?format=2500w",
+      "sourceDimensions": "4119x2746",
+      "localDimensions": "2500x1667",
+      "sha256": "68b6142a9b12e126b711b9af4e28a57aad63f4f78ffb64e99bdca059db62dd1e"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/06-halloween-production-wide.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/2cecbe0f-f15f-4bc6-99dc-9932f1026b5c/54142171313_1d829394fd_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/2cecbe0f-f15f-4bc6-99dc-9932f1026b5c/54142171313_1d829394fd_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "b26df713c7e2f2db7ffd98b36725fcb07030e5e950c4783ea5932b83acd8e3ac"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/07-halloween-table-duet.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/3b1d09d7-fbb9-4346-a72a-c93d9a70ef45/54142174403_4e723d76e2_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/3b1d09d7-fbb9-4346-a72a-c93d9a70ef45/54142174403_4e723d76e2_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "a97b511f4637753172e833814648378ce4896e25ed7675cd261f63685f6fcfe9"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/08-halloween-full-cast.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/3b32b808-9d78-4894-8dd2-bc43a864a9cb/54142388975_0bf9baffbd_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/3b32b808-9d78-4894-8dd2-bc43a864a9cb/54142388975_0bf9baffbd_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "bca315f5d67ae8ad45ee8870843d58d7b3dd455842a3447aa52155d719c3db43"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/09-character-at-podium.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/434c0bd5-8271-488b-b774-c00c4a7f47ba/54142341750_0b535b67fd_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/434c0bd5-8271-488b-b774-c00c4a7f47ba/54142341750_0b535b67fd_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "7ef3423b08981e2441a0436029b131c168918ca6a21025f3be5f7bdb16f51630"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/10-halloween-solo.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/5999abf3-e658-4c37-9e36-6bf82ff382c0/54141880746_36ccf9bff0_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/5999abf3-e658-4c37-9e36-6bf82ff382c0/54141880746_36ccf9bff0_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "9f76448b7f898b75099e98315685b07883937552fbd1d6f06e448bd460b2086f"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/11-halloween-banner-solo.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/63b5c2cd-322a-463a-8e18-9153e74c9f6c/54142342415_83a1cfc7ee_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/63b5c2cd-322a-463a-8e18-9153e74c9f6c/54142342415_83a1cfc7ee_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "ad5af135e7943df30da1b5cc2c0e2c5cd25640048eb236d3e856d5da57d09d1f"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/12-halloween-trio.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/8474f887-9738-4f37-92b0-fe04a2800c6c/54141072697_e88db0e288_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/8474f887-9738-4f37-92b0-fe04a2800c6c/54141072697_e88db0e288_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "dac0ecbd28f4f8e1983fc7a964253b8a3e017c92c40f1569b1242e5be295ad22"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/13-halloween-group.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/de5d0905-cb0f-43c5-91ef-796f5566c02e/54141027872_a25eced260_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/de5d0905-cb0f-43c5-91ef-796f5566c02e/54141027872_a25eced260_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "29bad26c7605ad1ac523de3b9d81bb51b26af39f4c9d1eaecd389b46829c3359"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/14-denim-company.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/a63b5ca3-f4cd-4cfc-be12-cbfe7f9e3c1e/54441374170_52ca571c22_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/a63b5ca3-f4cd-4cfc-be12-cbfe7f9e3c1e/54441374170_52ca571c22_o.jpg?format=2500w",
+      "sourceDimensions": "4339x2893",
+      "localDimensions": "2500x1667",
+      "sha256": "0384f149fa03d8624868083c77b6c2893f5a42ff6f147d36b39e1efbd365bf56"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/15-orange-company.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/bb0d4aa9-4756-47dc-8071-d53a9934fb73/54441242808_a4874f2f25_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/bb0d4aa9-4756-47dc-8071-d53a9934fb73/54441242808_a4874f2f25_o.jpg?format=2500w",
+      "sourceDimensions": "4326x2884",
+      "localDimensions": "2500x1667",
+      "sha256": "202cd9616489a973fa18854a0561227f40d2861a03df4fb6cdc39939961eaf47"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/16-pink-ensemble-stage.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/c988d8cf-573c-487f-bf30-d8a2a54fc697/54441360595_a4aa1ae68d_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/c988d8cf-573c-487f-bf30-d8a2a54fc697/54441360595_a4aa1ae68d_o.jpg?format=2500w",
+      "sourceDimensions": "4410x2940",
+      "localDimensions": "2500x1667",
+      "sha256": "f703f64da5dffb7fe52a38da7316156b93842a1270ec0c5782a7b45b3f42bea4"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/17-courtroom-scene.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/d4e38cad-327e-4033-a236-4e8714199b72/54441183594_d09df1fa2e_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/d4e38cad-327e-4033-a236-4e8714199b72/54441183594_d09df1fa2e_o.jpg?format=2500w",
+      "sourceDimensions": "4542x3028",
+      "localDimensions": "2500x1667",
+      "sha256": "9fbf1572d7fcbdb092cda66010d87a6ffbdaff34e897c945e43805bc612b23c6"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/18-blue-trio-stage.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/dc8afd6f-e04a-4f02-8472-9bf07313c2fb/54440982486_45cdc991d7_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/dc8afd6f-e04a-4f02-8472-9bf07313c2fb/54440982486_45cdc991d7_o.jpg?format=2500w",
+      "sourceDimensions": "4788x3192",
+      "localDimensions": "2500x1667",
+      "sha256": "0de27792f1141f00ca97fdbd9b5773833158bb7d1d225ef8120456123ac1c1eb"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/19-jury-scene.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/e07133eb-d533-4b03-aea3-a60dbe59d27e/54440995141_a667d54ddf_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/e07133eb-d533-4b03-aea3-a60dbe59d27e/54440995141_a667d54ddf_o.jpg?format=2500w",
+      "sourceDimensions": "5072x3381",
+      "localDimensions": "2500x1667",
+      "sha256": "6cc1e5ec7a6f34823b07607b67c6d69d1ced014704982b80aac56c9f5c028d6a"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/20-multicolor-stage-number.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/e2411450-b094-4e32-bf1b-0951dcd1ced4/54441229283_e6314d2196_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/e2411450-b094-4e32-bf1b-0951dcd1ced4/54441229283_e6314d2196_o.jpg?format=2500w",
+      "sourceDimensions": "4092x2728",
+      "localDimensions": "2500x1667",
+      "sha256": "4045e1f9e29ef651f62190fb5fd741a05c6d894550062d029a7254272d03c3bc"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/21-halloween-stage-company.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/e64f225a-e343-4f0d-85ff-45d984ed6f41/54141026942_93fca2f362_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/e64f225a-e343-4f0d-85ff-45d984ed6f41/54141026942_93fca2f362_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "790a701237c0a9b8c1487e3f11acb002f9d551c3e131dd1fe5f2df9eb401975d"
+    },
+    {
+      "file": "src/assets/site-images/media/performance-gallery/22-solo-vocal-performance.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/f9c20fe9-4743-4168-b687-e8489e9012d4/54142246159_b4cc167714_o.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/f9c20fe9-4743-4168-b687-e8489e9012d4/54142246159_b4cc167714_o.jpg?format=2500w",
+      "sourceDimensions": "6240x4160",
+      "localDimensions": "2500x1667",
+      "sha256": "8383e742cef5cf0ac28a65698c549e259a75f715d9c60e712bded216731ed964"
+    },
+    {
+      "file": "src/assets/site-images/media/portrait-dance-gallery/01-green-studio-movement.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/07eef647-5296-4e16-a47e-a87cdc429417/IMG_3589.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/07eef647-5296-4e16-a47e-a87cdc429417/IMG_3589.jpg?format=2500w",
+      "sourceDimensions": "1290x1567",
+      "localDimensions": "1290x1567",
+      "sha256": "10f1f7a95ef95cff2012eac2164e1c1405fa1ae8f56166420c14a4faf3a71346"
+    },
+    {
+      "file": "src/assets/site-images/media/portrait-dance-gallery/02-pink-studio-extension.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/0a4105b6-50b2-44df-ac07-c89aca4288ee/IMG_6620.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/0a4105b6-50b2-44df-ac07-c89aca4288ee/IMG_6620.jpg?format=2500w",
+      "sourceDimensions": "4371x5958",
+      "localDimensions": "2500x3408",
+      "sha256": "6d7091fc7eabb6180acdce6c420cacdad5a0e683644745d494b92713f21f5b1e"
+    },
+    {
+      "file": "src/assets/site-images/media/portrait-dance-gallery/03-pink-studio-leap.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/0bf86325-c176-4aad-bd2b-8454546ff451/IMG_6617.JPG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/0bf86325-c176-4aad-bd2b-8454546ff451/IMG_6617.JPG?format=2500w",
+      "sourceDimensions": "4259x6389",
+      "localDimensions": "2500x3750",
+      "sha256": "94346aed8bd22b18aec4670e0d540572188b8c06f6a2d0b324bf14df9fbc17f3"
+    },
+    {
+      "file": "src/assets/site-images/media/portrait-dance-gallery/04-red-studio-floor-pose.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/1cc28ea0-995f-4df9-8c39-05ffd25816dc/85FA9EAB-17D1-4488-85DC-2510810D8EF4.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/1cc28ea0-995f-4df9-8c39-05ffd25816dc/85FA9EAB-17D1-4488-85DC-2510810D8EF4.jpg?format=2500w",
+      "sourceDimensions": "1290x1290",
+      "localDimensions": "1290x1290",
+      "sha256": "6fd0617049f3862f2db7a0f8366d35343aca1d5017f68fab859be4a98d0f0ca6"
+    },
+    {
+      "file": "src/assets/site-images/media/portrait-dance-gallery/05-pink-studio-dance.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/d61f816b-61ea-4d64-b321-850d445ebcc5/IMG_6618.JPG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/d61f816b-61ea-4d64-b321-850d445ebcc5/IMG_6618.JPG?format=2500w",
+      "sourceDimensions": "4191x6286",
+      "localDimensions": "2500x3750",
+      "sha256": "c4b59cc31975678b4c1e8515d57a12fb6e5e2aea021527558de7c9e380401581"
+    },
+    {
+      "file": "src/assets/site-images/media/portrait-dance-gallery/06-black-studio-floor-pose.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/59ebf92c-0ecc-470e-b453-c159f207b2e2/IMG_6483.PNG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/59ebf92c-0ecc-470e-b453-c159f207b2e2/IMG_6483.PNG?format=2500w",
+      "sourceDimensions": "1290x1938",
+      "localDimensions": "1290x1938",
+      "sha256": "6c8280d1608d35445290117baf3a1dfb4c8386dc0d20fe20263b39bb6ad1e989"
+    },
+    {
+      "file": "src/assets/site-images/media/portrait-dance-gallery/07-black-studio-kneeling.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/827479d0-8f49-4e6c-88c0-8034e3c28d4c/IMG_6455.PNG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/827479d0-8f49-4e6c-88c0-8034e3c28d4c/IMG_6455.PNG?format=2500w",
+      "sourceDimensions": "1290x1857",
+      "localDimensions": "1290x1857",
+      "sha256": "a647f3f04324f92ad07687842a3d128457b01a5bcfe7ce6f3d887f79ad4df308"
+    },
+    {
+      "file": "src/assets/site-images/media/portrait-dance-gallery/08-red-studio-kneeling.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/924007b9-b0bb-49e9-8b7a-808fe05f767d/IMG_6470.PNG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/924007b9-b0bb-49e9-8b7a-808fe05f767d/IMG_6470.PNG?format=2500w",
+      "sourceDimensions": "1289x1800",
+      "localDimensions": "1289x1800",
+      "sha256": "5cafbe30e7802a876fb6f06fc7f1806db5af87fbc65767fad3cd5aa5faf13331"
+    },
+    {
+      "file": "src/assets/site-images/media/portrait-dance-gallery/09-black-studio-high-kick.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/ce075d84-a9ac-4099-a7b8-ea066a2ac73f/IMG_7198.JPG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/ce075d84-a9ac-4099-a7b8-ea066a2ac73f/IMG_7198.JPG?format=2500w",
+      "sourceDimensions": "1600x2000",
+      "localDimensions": "1600x2000",
+      "sha256": "702095edf5d29def1cfac087f134d9e2f94cc208f856c34cfa2a9607a0b4e28d"
+    },
+    {
+      "file": "src/assets/site-images/media/portrait-dance-gallery/10-red-studio-portrait.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/d92ed0d6-d6c1-4b97-be4a-670e6947d3c0/DSC03632.jpg",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/d92ed0d6-d6c1-4b97-be4a-670e6947d3c0/DSC03632.jpg?format=2500w",
+      "sourceDimensions": "6000x4000",
+      "localDimensions": "2500x1667",
+      "sha256": "4dfe242aa56973863bbd8e332ee1ed07753ba5b535c8d48cb7e7c8f69a2eed14"
+    },
+    {
+      "file": "src/assets/site-images/media/portrait-dance-gallery/11-black-studio-lean.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/e3c43f31-f0c7-4081-8b50-fdabb8bbcc77/IMG_7199.JPG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/e3c43f31-f0c7-4081-8b50-fdabb8bbcc77/IMG_7199.JPG?format=2500w",
+      "sourceDimensions": "1600x2000",
+      "localDimensions": "1600x2000",
+      "sha256": "ce162f93483544831530c8f2860984f9d432fef678584324b8bd53acb8fa3b58"
+    },
+    {
+      "file": "src/assets/site-images/media/portrait-dance-gallery/12-pink-dance-extension.jpg",
+      "sourcePage": "https://www.jacquelinetrinhjuarez.com/media",
+      "sourceUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/f804e3c6-4fc8-4fd1-acea-de2dc2dd35fc/pink+dance+leg+%281%29.JPG",
+      "downloadUrl": "https://images.squarespace-cdn.com/content/v1/6633fc893e426a36dbe9e690/f804e3c6-4fc8-4fd1-acea-de2dc2dd35fc/pink+dance+leg+%281%29.JPG?format=2500w",
+      "sourceDimensions": "4480x6720",
+      "localDimensions": "2500x3750",
+      "sha256": "357c585f577d97d5f6b1e1f3f62b6ad4eb3276ddfa14ee12a9c30d7e6814821d"
+    },
+    {
+      "file": "src/assets/site-images/headshot-resume/resume-preview.jpg",
+      "sourceFile": "Jacqueline Trinh-Juarez Resume.pdf",
+      "generatedFrom": "public/downloads/jacqueline-trinh-juarez-resume.pdf",
+      "localDimensions": "1728x2159",
+      "notes": "Complete PDF page rendered at three pixels per point, without cropping.",
+      "sha256": "f698774a027e7b66c3872e22f08b03a50b3c95c1c8c0744a95a302adbf76cd23"
+    }
+  ],
+  "videos": [
+    {
+      "title": "It won’t be long now - In The Heights Jacqueline Trinh-Juarez",
+      "url": "https://www.youtube.com/watch?v=KSnRPCISxHU"
+    },
+    {
+      "title": "Dance Reel - Jacqueline Trinh-Juarez",
+      "url": "https://www.youtube.com/watch?v=36nitiZI8Xs"
+    },
+    {
+      "title": "Teddy Bear Hound Dog! - Jacqueline Trinh-Juarez & Evan Williams",
+      "url": "https://www.youtube.com/watch?v=GzMb1uuKseI"
+    }
+  ],
+  "documents": [
+    {
+      "file": "public/downloads/jacqueline-trinh-juarez-resume.pdf",
+      "sourceFile": "Jacqueline Trinh-Juarez Resume.pdf",
+      "notes": "Supplied PDF copied byte-for-byte.",
+      "sha256": "be79e45869d0564b4801b6bad80dd0e2e2f2359866e06b7f252a0654d68b310e"
+    }
+  ]
+}

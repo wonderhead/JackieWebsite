@@ -1,0 +1,16 @@
+node_modules
+dist
+coverage
+*.local
+.DS_Store
+.env
+.env.*
+!.env.example
+.aws/
+.agents/
+.codex/
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
